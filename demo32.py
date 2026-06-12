@@ -1,0 +1,10 @@
+Str = "Mounika"
+print(Str.capitalize())
+print(Str.casefold())
+print(Str.count('a'))
+print(Str.center(13,"*"))
+print(Str.encode())
+print(Str.endswith('A'))
+print(Str.startswith('m'))
+print(Str.split())
+print(Str.expandtabs())

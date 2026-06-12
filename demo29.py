@@ -1,0 +1,6 @@
+print("abc".islower())
+print("abc".isupper())
+print("ABC".isupper())
+print("ABC".islower())
+print("PYthoN".upper())
+print("PYthoN".lower())
